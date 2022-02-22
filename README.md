@@ -3,7 +3,7 @@ This is a repository created for Analog to digital conversion code for PIC16F877
 
 #  Starter Code for ADC coding
 ## functions to work with ADC for Pic16F877A
-### Name : ANAVIND K
+### Author Name : ANAVIND K
 
 #### There are three files in this template.
 * main.c 
