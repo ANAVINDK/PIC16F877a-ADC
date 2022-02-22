@@ -9,3 +9,5 @@ This is a repository created for Analog to digital conversion code for PIC16F877
 * main.c 
 * adc.h 
 * adc.c 
+
+Any suggestions and corrections are greatly appreciated.
